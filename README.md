@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Animesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://portfolio-alpha-liart.vercel.app/">Animesh Garai</a></h1>
+<h3 align="center">I'm a front-end developer and UI designer from the city of joy Kolkata, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshgarai09&label=Profile%20views&color=0e75b6&style=flat" alt="animeshgarai09" /> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working as System engineer at **<a href="https://www.tcs.com/">Tata Consultancy Services</a>**
 
-- 🌱 I’m currently learning **react, nextjs**
+- 🌱 I’m continuously learning to be a better **UI designer** and write good code as a **Front-end developer**
 
-- 👯 I’m looking to collaborate on **stunning frontend projects**
+- 👯 I’m looking to collaborate on web projects and to create **Amazing UI**
 
-- 💬 Ask me about **css, react**
+- 🥅 2021 Goals: Boost my skills and showcase as much possible to attract better **opportunities**
 
-- 📫 How to reach me **animeshgarai09@gmail.com**
+- 📫 Reach out to me on **animeshgarai09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/animesh garai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh garai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/animesh-garai-29a5251b4/" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/LinkedIn.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
