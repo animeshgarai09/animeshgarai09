@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://portfolio-alpha-liart.vercel.app/">Animesh Garai</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://animesh-designs.vercel.app/">Animesh Garai</a></h1>
 <h3 align="center">I'm a front-end developer and UI designer from the city of joy Kolkata, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshgarai09&label=Profile%20views&color=0e75b6&style=flat" alt="animeshgarai09" /> </p>
